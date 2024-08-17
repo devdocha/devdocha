@@ -7,10 +7,14 @@
 🥤🐱🕹️ Hoje curso Engenharia de Software na Universidade Cruzeiro do Sul, tenho 5 gatos, não gosto de café (mas sou viciada em Coca-Cola) e sou aquele tipo de pessoa que ama jogos, mas é muito ruim em todos eles.
 
 <p align="center">
+  <img src="https://tenor.com/view/mine-cat-coke-gif-24404005" width="350">
+</p>
+
+<p align="center">
     <div class="tenor-gif-embed" data-postid="16250432" data-share-method="host" data-aspect-ratio="0.990625" data-width="100%"><a href="https://tenor.com/view/coca-cola-biting-dont-steal-this-is-mine-angry-gif-16250432">Coca Cola Biting GIF</a>from <a href="https://tenor.com/search/coca+cola-gifs">Coca Cola GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
-## 💻 Estou estudando
+## 💻 Estou estudando:
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
@@ -23,7 +27,6 @@
 ##
 <p align="center">
 <a href="https://github.com/mari-barbosa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mari-barbosa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mari-barbosa&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" width="80em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mari-barbosa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" width="80em src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mari-barbosa&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
