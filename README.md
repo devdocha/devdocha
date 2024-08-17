@@ -7,7 +7,7 @@
 🥤🐱🕹️ Hoje curso Engenharia de Software na Universidade Cruzeiro do Sul, tenho 5 gatos, não gosto de café (mas sou viciada em Coca-Cola) e sou aquele tipo de pessoa que ama jogos, mas é muito ruim em todos eles.
 
 <p align="center">
-  <img src="https://tenor.com/view/mine-cat-coke-gif-24404005" width="350">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
 
 <p align="center">
@@ -27,6 +27,7 @@
 ##
 <p align="center">
 <a href="https://github.com/mari-barbosa">
-  <img height="180em" width="80em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mari-barbosa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" width="80em src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mari-barbosa&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mari-barbosa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mari-barbosa&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
