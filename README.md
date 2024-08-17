@@ -10,10 +10,6 @@
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
 
-<p align="center">
-    <div class="tenor-gif-embed" data-postid="16250432" data-share-method="host" data-aspect-ratio="0.990625" data-width="100%"><a href="https://tenor.com/view/coca-cola-biting-dont-steal-this-is-mine-angry-gif-16250432">Coca Cola Biting GIF</a>from <a href="https://tenor.com/search/coca+cola-gifs">Coca Cola GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</p>
-
 ## 💻 Estou estudando:
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
