@@ -1,17 +1,29 @@
-🏳️‍⚧️ Olá, meu nome é Mariana Barbosa, mas você pode me chamar de Mari 😊
+ <h1 align="left">Mari Barbosa</h1>
 
-Seja muito bem-vinde ao meu perfil no GitHub.
+## 🥰 Olá, pessoal!
 
-Aqui eu compartilho projetos pessoais e trabalhos desenvolvidos na faculdade de Engenharia de Software.
+🏳️‍🌈 Meu nome é Mariana Barbosa, mas você pode me chamar de Mari. Tenho 31 anos, sou uma mulher trans e moro em São Paulo/SP. Após mais doze anos de carreira nas áreas contábil e financeira dos mais variados tipos de empresas, resolvi seguir meu sonho e estudar programação.
 
-No momento estou estudando modelagem de dados, técnicas de desenvolvimento de algoritmos, programação web e programação orientada a objetos
+🥤🐱🕹️ Hoje curso Engenharia de Software na Universidade Cruzeiro do Sul, tenho 5 gatos, não gosto de café (mas sou viciada em Coca-Cola) e sou aquele tipo de pessoa que ama jogos, mas é muito ruim em todos eles.
 
-Um fato curioso sobre mim é que por mais de 12 anos eu atuei nas áreas contábil e financeiras dos mais variados tipos de empresas e agora em 2024 resolvi seguir o meu sonho de estudar tecnologia.
+<p align="center">
+    <div class="tenor-gif-embed" data-postid="16250432" data-share-method="host" data-aspect-ratio="0.990625" data-width="100%"><a href="https://tenor.com/view/coca-cola-biting-dont-steal-this-is-mine-angry-gif-16250432">Coca Cola Biting GIF</a>from <a href="https://tenor.com/search/coca+cola-gifs">Coca Cola GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</p>
 
-## Estou aprendendo
-<img loading="lazy" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
+## 💻 Estou estudando
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 
-<div>
+📚 Neste primeiro semestre da faculdade estou estudando modelagem de dados, técnicas de desenvolvimento de algoritmos, programação web e programação orientada a objetos.
+
+💡 Nos meus repositórios você pode ver os projetos pessoais que desenvolvi para me aprofundar nas tecnologias e também os trabalhos que apresentei na faculdade. 
+
+##
+<p align="center">
 <a href="https://github.com/mari-barbosa">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mari-barbosa&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=mari-barbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mari-barbosa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mari-barbosa&layout=compact&langs_count=8&theme=radical"/>
+</a>
+</p>
