@@ -2,7 +2,7 @@
 
 ## 🥰 Olá, pessoal!
 
-🏳️‍🌈 Meu nome é Mariana Barbosa, mas você pode me chamar de Mari. Tenho 31 anos, sou uma mulher trans e moro em São Paulo/SP. Após mais doze anos de carreira nas áreas contábil e financeira dos mais variados tipos de empresas, resolvi seguir meu sonho e estudar programação.
+🏳️‍🌈 Meu nome é Mariana Barbosa, mas você pode me chamar de Mari. Tenho 32 anos, sou uma mulher trans e moro em São Paulo/SP. Após mais doze anos de carreira nas áreas contábil e financeira dos mais variados tipos de empresas, resolvi seguir meu sonho e estudar programação.
 
 🥤🐱🕹️ Hoje curso Engenharia de Software na Universidade Cruzeiro do Sul, tenho 5 gatos, não gosto de café (mas sou viciada em Coca-Cola) e sou aquele tipo de pessoa que ama jogos, mas é muito ruim em todos eles.
 
