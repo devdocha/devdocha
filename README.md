@@ -1,29 +1,38 @@
- <h1 align="left">Mari Barbosa</h1>
+# Olá, eu sou a Mari Barbosa! 🍵
 
-## 🥰 Olá, pessoal!
+## Software Engineer in training | Storyteller | Tea Lover
 
-🏳️‍🌈 Meu nome é Mariana Barbosa, mas você pode me chamar de Mari. Tenho 32 anos, sou uma mulher trans e moro em São Paulo/SP. Após mais doze anos de carreira nas áreas contábil e financeira dos mais variados tipos de empresas, resolvi seguir meu sonho e estudar programação.
+Bem-vindos ao meu cantinho na internet, onde o código encontra a criatividade (e uma boa xícara de chá).
 
-🥤🐱🕹️ Hoje curso Engenharia de Software na Universidade Cruzeiro do Sul, tenho 5 gatos, não gosto de café (mas sou viciada em Coca-Cola) e sou aquele tipo de pessoa que ama jogos, mas é muito ruim em todos eles.
+Depois de uma década e meia no mundo da contabilidade, eu decidi reescrever o meu próprio código-fonte e mergulhar de cabeça na minha verdadeira paixão: a tecnologia. Hoje, sou estudante de Engenharia de Software, com um foco especial em Inteligência Artificial e Machine Learning, e uma eterna apaixonada por como a tecnologia pode contar novas histórias.
 
-<p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-</p>
+    ✍️ Além do código, sou autora publicada de romances para jovens adultos e atualmente estou colaborando em um projeto com o mestre do fantástico, André Vianco.
+
+    🎮 Nas horas vagas, você pode me encontrar torcendo (e sofrendo) pela Team Liquid Visa, decorando a minha fazenda em Stardew Valley ou planejando minha próxima viagem para o Porto.
+
+    💡 Acredito que a tecnologia deve ser acessível, elegante e, sempre que possível, ter um tema claro. 😉
+
 
 ## 💻 Estou estudando:
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title = "Python"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title = "Arduino"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "Javascript"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "Java"/></code>
 
-📚 Neste primeiro semestre da faculdade estou estudando modelagem de dados, técnicas de desenvolvimento de algoritmos, programação web e programação orientada a objetos.
+### 🌱 O que estou aprendendo agora
 
-💡 Nos meus repositórios você pode ver os projetos pessoais que desenvolvi para me aprofundar nas tecnologias e também os trabalhos que apresentei na faculdade. 
+Atualmente, estou aprofundando meus conhecimentos em:
 
-##
-<p align="center">
-<a href="https://github.com/mari-barbosa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devdocha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devdocha&layout=compact&langs_count=8&theme=radical"/>
-</a>
-</p>
+    Python para Data Science
+
+    Modelagem de Dados
+
+    Técnicas de Aprendizagem para otimizar meus estudos
+
+    Universo do Fedora e do softwares de código aberto.
+
+### 📫 Como me encontrar
+
+Você também pode me encontrar no [YouTube](https://www.youtube.com/@devdocha) e no [Instagram](https://www.instagram.com/devdocha) como @devdocha, onde compartilho mais sobre essa jornada.
