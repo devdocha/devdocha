@@ -6,11 +6,11 @@ Bem-vindos ao meu cantinho na internet, onde o código encontra a criatividade (
 
 Depois de uma década e meia no mundo da contabilidade, eu decidi reescrever o meu próprio código-fonte e mergulhar de cabeça na minha verdadeira paixão: a tecnologia. Hoje, sou estudante de Engenharia de Software, com um foco especial em Inteligência Artificial e Machine Learning, e uma eterna apaixonada por como a tecnologia pode contar novas histórias.
 
-    ✍️ Além do código, sou autora publicada de romances para jovens adultos e atualmente estou colaborando em um projeto com o mestre do fantástico, André Vianco.
+✍️ Além do código, sou autora publicada de romances para jovens adultos e atualmente estou colaborando em um projeto com o mestre do fantástico, André Vianco.
 
-    🎮 Nas horas vagas, você pode me encontrar torcendo (e sofrendo) pela Team Liquid Visa, decorando a minha fazenda em Stardew Valley ou planejando minha próxima viagem para o Porto.
+🎮 Nas horas vagas, você pode me encontrar torcendo (e sofrendo) pela Team Liquid Visa, decorando a minha fazenda em Stardew Valley ou planejando minha próxima viagem para o Porto.
 
-    💡 Acredito que a tecnologia deve ser acessível, elegante e, sempre que possível, ter um tema claro. 😉
+💡 Acredito que a tecnologia deve ser acessível, elegante e, sempre que possível, ter um tema claro. 😉
 
 
 ## 💻 Estou estudando:
@@ -25,13 +25,13 @@ Depois de uma década e meia no mundo da contabilidade, eu decidi reescrever o m
 
 Atualmente, estou aprofundando meus conhecimentos em:
 
-    Python para Data Science
+- Python para Data Science
 
-    Modelagem de Dados
+- Modelagem de Dados
 
-    Técnicas de Aprendizagem para otimizar meus estudos
+- Técnicas de Aprendizagem para otimizar meus estudos
 
-    Universo do Fedora e do softwares de código aberto.
+- Universo do Fedora e do softwares de código aberto.
 
 ### 📫 Como me encontrar
 
