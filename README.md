@@ -30,7 +30,7 @@ Atualmente, estou aprofundando meus conhecimentos em:
 - O ecossistema Fedora e softwares de código aberto
 
 ### 🔗 Meus Repositórios:
-Cada repositório é um capítulo da minha história como engenheira de software. Sinta-se à vontade para explorar, aprender e construir junto.Acredito que o conhecimento deve ser compartilhado e livre.
+Cada repositório é um capítulo da minha história como engenheira de software. Sinta-se à vontade para explorar, aprender e construir junto. Acredito que o conhecimento deve ser compartilhado e livre.
 
 ### 🚀 Conecte-se comigo:
 
