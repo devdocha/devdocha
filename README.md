@@ -1,38 +1,37 @@
-# Olá, eu sou a Mari Barbosa! 🍵
+# Olá, eu sou a Mari Barbosa!
 
-## Software Engineer in training | Storyteller | Tea Lover
+## Software Engineer | Maker | Open Source Enthusiast
 
-Bem-vindos ao meu cantinho na internet, onde o código encontra a criatividade (e uma boa xícara de chá).
+🍵 Este é o meu diário de bordo digital, onde a paixão pelo código se encontra com a arte de construir futuros.
 
-Depois de uma década e meia no mundo da contabilidade, eu decidi reescrever o meu próprio código-fonte e mergulhar de cabeça na minha verdadeira paixão: a tecnologia. Hoje, sou estudante de Engenharia de Software, com um foco especial em Inteligência Artificial e Machine Learning, e uma eterna apaixonada por como a tecnologia pode contar novas histórias.
+📚 Após uma jornada de uma década na contabilidade, decidi reescrever meu próprio código-fonte e mergulhar no mundo da tecnologia. Hoje, sou estudante de Engenharia de Software, com um foco especial em Inteligência Artificial, Machine Learning e, acima de tudo, no poder da tecnologia para contar novas histórias e criar novas realidades.
 
-✍️ Além do código, sou autora publicada de romances para jovens adultos e atualmente estou colaborando em um projeto com o mestre do fantástico, André Vianco.
+🌟 Acredito em uma tecnologia acessível, elegante e que nos capacite a ser criadores, não apenas consumidores. Minha paixão é transformar ideias em blueprints e blueprints em projetos reais.
 
-🎮 Nas horas vagas, você pode me encontrar torcendo (e sofrendo) pela Team Liquid Visa, decorando a minha fazenda em Stardew Valley ou planejando minha próxima viagem para o Porto.
+🎮 Nas horas vagas, você me encontrará na minha fazenda em Stardew Valley, na torcida pela Team Liquid Visa, ou desenhando os próximos passos da minha Cidadela Maker.
 
-💡 Acredito que a tecnologia deve ser acessível, elegante e, sempre que possível, ter um tema claro. 😉
-
-
-## 💻 Estou estudando:
+## 🛠️ Minhas Ferramentas
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title = "Python"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title = "C++"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title = "Arduino"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "Javascript"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "Java"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title = "Git"/></code>
 
-### 🌱 O que estou aprendendo agora
+          
+### 🎯 Foco atual:
 
 Atualmente, estou aprofundando meus conhecimentos em:
 
 - Python para Data Science
 
-- Modelagem de Dados
+- Hardware para IA
 
-- Técnicas de Aprendizagem para otimizar meus estudos
+- Tecnofilosofia Aplicada e Ética em IA
 
-- Universo do Fedora e do softwares de código aberto.
+- O ecossistema Fedora e softwares de código aberto
 
-### 📫 Como me encontrar
+### 🔗 Meus Repositórios:
+Cada repositório é um capítulo da minha história como engenheira de software. Sinta-se à vontade para explorar, aprender e construir junto.Acredito que o conhecimento deve ser compartilhado e livre.
 
-Você também pode me encontrar no [YouTube](https://www.youtube.com/@devdocha) e no [Instagram](https://www.instagram.com/devdocha) como @devdocha, onde compartilho mais sobre essa jornada.
+### 🚀 Conecte-se comigo:
+
+Você também pode me encontrar no [YouTube](https://www.youtube.com/@devdocha) onde compartilho projetos e tutoriais.
