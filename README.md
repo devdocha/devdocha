@@ -10,7 +10,7 @@
 
 🎮 Nas horas vagas, você me encontrará na minha fazenda em Stardew Valley, na torcida pela Team Liquid Visa, ou desenhando os próximos passos da minha Cidadela Maker.
 
-## 🛠️ Minhas Ferramentas
+## 🛡️  Meu Arsenal
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title = "Python"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title = "C++"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title = "Arduino"/></code>
@@ -27,11 +27,11 @@ Atualmente, estou aprofundando meus conhecimentos em:
 
 - Tecnofilosofia Aplicada e Ética em IA
 
-- O ecossistema Fedora e softwares de código aberto
+- Ecossistema Fedora e softwares de código aberto
 
-### 🔗 Meus Repositórios:
+### 📜 Meus Repositórios:
 Cada repositório é um capítulo da minha história como engenheira de software. Sinta-se à vontade para explorar, aprender e construir junto. Acredito que o conhecimento deve ser compartilhado e livre.
 
-### 🚀 Conecte-se comigo:
+### 🧭 Conecte-se comigo:
 
 Você também pode me encontrar no [YouTube](https://www.youtube.com/@devdocha) onde compartilho projetos e tutoriais.
