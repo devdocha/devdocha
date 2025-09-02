@@ -34,4 +34,4 @@ Cada repositório é um capítulo da minha história como engenheira de software
 
 ### 🧭 Conecte-se comigo:
 
-Você também pode me encontrar no [YouTube](https://www.youtube.com/@devdocha) onde compartilho projetos e tutoriais.
+Você também pode me encontrar no [YouTube](https://www.youtube.com/@cidadelamaker) da Cidadela Maker onde compartilho projetos e tutoriais.
