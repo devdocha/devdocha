@@ -31,7 +31,3 @@ Atualmente, estou aprofundando meus conhecimentos em:
 
 ### 📜 Meus Repositórios:
 Cada repositório é um capítulo da minha história como engenheira de software. Sinta-se à vontade para explorar, aprender e construir junto. Acredito que o conhecimento deve ser compartilhado e livre.
-
-### 🧭 Conecte-se comigo:
-
-Você também pode me encontrar no [YouTube](https://www.youtube.com/@cidadelamaker) da Cidadela Maker onde compartilho projetos e tutoriais.
